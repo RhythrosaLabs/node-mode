@@ -259,3 +259,8 @@ git push origin feature/my-new-node
 ## 📄 License
 
 MIT — see [LICENSE](LICENSE) for details.
+
+
+## Support
+
+If you find this useful, consider supporting via [PayPal](https://paypal.me/noodlebake)
